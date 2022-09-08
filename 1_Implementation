@@ -1,0 +1,10 @@
+Rules of the Game:
+
+A. The game is to be played between two people (in this program between HUMAN and COMPUTER).
+B. One of the player chooses ‘O’ and the other ‘X’ to mark their respective cells.
+C. The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’).
+D. If no one wins, then the game is said to be draw.
+
+https://c8.alamy.com/comp/D5WF3N/hand-drawn-tic-tac-toe-game-isolated-on-white-D5WF3N.jpg
+
+In our program the moves taken by the computer and the human are chosen randomly.
